@@ -2,8 +2,7 @@
 
 **Stop restarting. Start building.**
 
-PrometheOS is an AI system that helps you build software **without losing your progress every time you open a new session.**
-
+PrometheOS is an AI system that remembers your work, so you can keep moving forward instead of starting from zero every time.
 ---
 
 ## What is this?
