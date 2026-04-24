@@ -5,6 +5,7 @@
 PrometheOS is an AI system that helps you build software **without losing your progress every time you open a new session.**
 
 ---
+<img width="1536" height="1024" alt="PrometheOS-How-it-Works" src="https://github.com/user-attachments/assets/19d7fe06-e8f5-4092-9e4a-223bfd4ae7ba" />
 
 ## What is this?
 
